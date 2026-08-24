@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://mhrd-a.github.io/sitemap.xml
